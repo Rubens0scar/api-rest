@@ -1,0 +1,19 @@
+version: '3'
+services:
+  docker-node:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: trabajo_final
+    container_name: trabajo_final
+    restart: unless-stopped
+    env_file: .env
+    ports:
+      - "3000:3000"
+    volumes:
+      - .:/usr/src/app
+      - /usr/src/app/node_modules
+    networks:
+      - docker-node-network
+networks:
+  docker-node-network:

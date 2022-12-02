@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "titulo": "Salar de Uyuni",
+        "descripcion": "El Salar de Uyuni (Salar de Uyuni), ubicado a unos 3800 metros sobre el nivel del mar en medio de los Andes en el suroeste de Bolivia, es el salar más grande del mundo . La sal se depositó aquí después de que un océano interior prehistórico se secara, dejando atrás un desierto de sal blanca cegadora de casi 11000 kilómetros cuadrados (aproximadamente 4086 millas cuadradas) de hasta 120 metros de profundidad. El Salar de Uyuni es la atracción turística más popular en Bolivia , una que debe verse para creerse.",
+        "departamento": "Potosi"
+    },
+    {
+        "id": 2,
+        "titulo": "Parque Nacional Madidi",
+        "descripcion": "Madidi es un parque nacional ubicado al noreste de La Paz, en la cuenca alta del río Amazonas en Bolivia. Establecido en 1995, tiene un área de 18958 kilómetros cuadrados y es uno de los parques biológicamente más diversos del mundo con 5000 a 6000 especies de flora.",
+        "departamento": "La Paz"
+    },
+    {
+        "id": 3,
+        "titulo": "Lago Titicaca",
+        "descripcion": "Compartido entre Perú y Bolivia, el lago Titicaca es famoso por ser el lago navegable más alto del mundo. También es uno de los lagos más grandes del mundo con 3.232 millas cuadradas de agua y el segundo lago de agua dulce más grande de América del Sur. Con una altura promedio de 3810 metros sobre el nivel del mar, el lago Titicaca es una gran atracción turística para los amantes de la naturaleza y la historia. Como uno de los lugares más hermosos y monumentos más preciados de Bolivia, el lago Titicaca es un lugar ideal para grandes oportunidades fotográficas.",
+        "departamento": "La Paz-Bolivia y Peru"
+    },
+    {
+        "id": 4,
+        "titulo": "Parque Nacional de Sajama",
+        "descripcion": "El Parque Nacional Sajama es el parque nacional más antiguo de Bolivia , ubicado al noroeste de Oruro. Limita con el Parque Nacional Lauca en Chile. Con el imparable pico Nevado Sajama (el más alto de Bolivia), aguas termales, lagunas escénicas y rutas de andinismo, es una ubicación privilegiada para fotógrafos y amantes de la naturaleza.",
+        "departamento": "Oruro"
+    },
+    {
+        "id": 5,
+        "titulo": "Carnaval de Oruro",
+        "descripcion": "Oruro es un pueblo minero inhóspito ubicado a alturas vertiginosas en la árida región del Altiplano de Bolivia, a unas 3 horas de La Paz. Sin embargo, una vez al año es el hogar de uno de los festivales más famosos de Sudamérica.",
+        "departamento": "Oruro"
+    },
+    {
+        "id": 6,
+        "titulo": "Misiones Jesuíticas de la Chiquitania",
+        "descripcion": "Las seis ciudades de misión fueron fundadas por un puñado de sacerdotes jesuitas en los siglos XVII y XVIII y, sorprendentemente, siguen siendo una fuerza cultural vibrante. Se pueden visitar en una larga gira. El más grande y conocido es San José de Chiquitos, pero todos ofrecen un bello ejemplo de la antigua arquitectura colonial española.",
+        "departamento": "Santa Cruz"
+    },
+    {
+        "id": 7,
+        "titulo": "Parque Nacional Toro Toro",
+        "descripcion": "El Parque Nacional Toro Toro ubicado al norte de Potosí es un paraíso para los amantes de la geología y la paleontología y uno de los Parques Nacionales más bellos de Bolivia. Entre las atracciones se encuentran las huellas de los dinosaurios, la caverna de Umajalanta, ruinas incas, pinturas rupestres y el impresionante cañón del Valle de Toro Toro. La altitud del parque varía entre 3600 y 1900 metros sobre el nivel del mar.",
+        "departamento": "Potosi"
+    },
+    {
+        "id": 8,
+        "titulo": "Tiwanaku",
+        "descripcion": "Tiwanaku o Tiahuanaco es una antigua ciudad precolombina en ruinas cerca de la orilla sureste del lago Titicaca, a unos 72 km (44 millas) al oeste de La Paz . Tiwanaku es un sitio reconocido como Patrimonio de la Humanidad.",
+        "departamento": "La Paz"
+    }
+]
